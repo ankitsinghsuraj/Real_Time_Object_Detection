@@ -2,11 +2,6 @@
 We worked on a project based on Deep Learning and we are able to detect objects through an image, a video and real-time(web cam and cellphone camera)
 
 This is an implementation of tensor flow object detection API for running it in Real time through Webcam and cellphone camera.
-# Contributors:
-* https://github.com/himanshu8004
-* https://github.com/Anshu15bit
-* https://github.com/ashikaks
-* https://github.com/sumananand222
 
 The video for the same is at :
 
